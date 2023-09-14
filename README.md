@@ -104,8 +104,19 @@ print("For population=35,000, we predict a profit of $"+str(round(predict2,0)))
 
 ## Output:
 
-![model]()
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/scatter%201st.png)
 
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/2nd.png)
+
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/3rd.png)
+
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/4th.png)
+
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/5th.png)
+
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/6th.png)
+
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/7th.png)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
