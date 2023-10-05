@@ -104,19 +104,19 @@ print("For population=35,000, we predict a profit of $"+str(round(predict2,0)))
 
 ## Output:
 
-![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/scatter%201st.png)
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/Screenshot%202023-10-05%20180222.png)
 
-![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/2nd.png)
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/Screenshot%202023-10-05%20180301.png)
 
-![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/3rd.png)
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/Screenshot%202023-10-05%20180334.png)
 
-![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/4th.png)
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/Screenshot%202023-10-05%20180417.png)
 
-![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/5th.png)
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/Screenshot%202023-10-05%20180449.png)
 
-![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/6th.png)
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/Screenshot%202023-10-05%20180522.png)
 
-![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/7th.png)
+![model](https://github.com/soundariyan18/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/Screenshot%202023-10-05%20180534.png)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
